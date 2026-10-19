@@ -1,8 +1,20 @@
 {
-  "version": 1,
+  "version": 2,
   "categories": [
     {"id": "hot", "name": "热门", "items": [
-      {"id": "s001", "name": "贴纸1", "url": "tex1.png", "thumb": "tex1.png"}
+      {"id": "s001", "name": "贴纸1", "url": "tex1.png", "thumb": "tex1.png"},
+      {"id": "d01", "name": "狗狗1", "url": "dog/dog1.png", "thumb": "dog/dog1.png"},
+      {"id": "d02", "name": "狗狗2", "url": "dog/dog2.png", "thumb": "dog/dog2.png"},
+      {"id": "d03", "name": "狗狗3", "url": "dog/dog3.png", "thumb": "dog/dog3.png"},
+      {"id": "d04", "name": "狗狗4", "url": "dog/dog4.png", "thumb": "dog/dog4.png"},
+      {"id": "d05", "name": "狗狗5", "url": "dog/dog5.png", "thumb": "dog/dog5.png"},
+      {"id": "d06", "name": "狗狗6", "url": "dog/dog6.png", "thumb": "dog/dog6.png"},
+      {"id": "d07", "name": "狗狗7", "url": "dog/dog7.png", "thumb": "dog/dog7.png"},
+      {"id": "d08", "name": "狗狗8", "url": "dog/dog8.png", "thumb": "dog/dog8.png"},
+      {"id": "d09", "name": "狗狗9", "url": "dog/dog9.png", "thumb": "dog/dog9.png"},
+      {"id": "d10", "name": "狗狗10", "url": "dog/dog10.png", "thumb": "dog/dog10.png"},
+      {"id": "d11", "name": "狗狗11", "url": "dog/dog11.png", "thumb": "dog/dog11.png"},
+      {"id": "d12", "name": "狗狗12", "url": "dog/dog12.png", "thumb": "dog/dog12.png"}
     ]}
   ]
 }
