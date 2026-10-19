@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "categories": [
+    {"id": "hot", "name": "热门", "items": [
+      {"id": "s001", "name": "贴纸1", "url": "tex1.png", "thumb": "tex1.png"}
+    ]}
+  ]
+}
