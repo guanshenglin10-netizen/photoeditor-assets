@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "categories": [
     {"id": "hot", "name": "热门", "items": [
       {"id": "s001", "name": "贴纸1", "url": "tex1.png", "thumb": "tex1.png"},
@@ -16,5 +16,12 @@
       {"id": "d11", "name": "狗狗11", "url": "dog/dog11.png", "thumb": "dog/dog11.png"},
       {"id": "d12", "name": "狗狗12", "url": "dog/dog12.png", "thumb": "dog/dog12.png"}
     ]}
+  ],
+  "fonts": [
+    {"id": "f001", "name": "仓耳渔阳体 W01 极细", "url": "fonts/cangy-W01.ttf"},
+    {"id": "f002", "name": "仓耳渔阳体 W02 细", "url": "fonts/cangy-W02.ttf"},
+    {"id": "f003", "name": "仓耳渔阳体 W03 中", "url": "fonts/cangy-W03.ttf"},
+    {"id": "f004", "name": "仓耳渔阳体 W04 中粗", "url": "fonts/cangy-W04.ttf"},
+    {"id": "f005", "name": "仓耳渔阳体 W05 粗", "url": "fonts/cangy-W05.ttf"}
   ]
 }
